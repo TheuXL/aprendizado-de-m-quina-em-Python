@@ -180,24 +180,6 @@ Documentation
 - HTML documentation (development version): https://scikit-learn.org/dev/
 - FAQ: https://scikit-learn.org/stable/faq.html
 
-Communication
-~~~~~~~~~~~~~
-
-- Mailing list: https://mail.python.org/mailman/listinfo/scikit-learn
-- Logos & Branding: https://github.com/scikit-learn/scikit-learn/tree/main/doc/logos
-- Blog: https://blog.scikit-learn.org
-- Calendar: https://blog.scikit-learn.org/calendar/
-- Twitter: https://twitter.com/scikit_learn
-- Stack Overflow: https://stackoverflow.com/questions/tagged/scikit-learn
-- GitHub Discussions: https://github.com/scikit-learn/scikit-learn/discussions
-- Website: https://scikit-learn.org
-- LinkedIn: https://www.linkedin.com/company/scikit-learn
-- YouTube: https://www.youtube.com/channel/UCJosFjYm0ZYVUARxuOZqnnw/playlists
-- Facebook: https://www.facebook.com/scikitlearnofficial/
-- Instagram: https://www.instagram.com/scikitlearnofficial/
-- TikTok: https://www.tiktok.com/@scikit.learn
-- Mastodon: https://mastodon.social/@sklearn@fosstodon.org
-- Discord: https://discord.gg/h9qyrK8Jc8
 
 
 Citation
